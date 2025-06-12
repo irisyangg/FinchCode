@@ -19,7 +19,7 @@ I was looking at different flowers while out shopping one day; I've always wante
 ---
 
 ### Design Cycle
-<img src="design_cycle.png" alt="design cycle" width="300" height="300">
+<img src="design cycle.png" alt="design cycle" width="300" height="260">
 
 ###### Include commentary on your experience with the design cycle during this project
 
