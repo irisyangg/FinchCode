@@ -1,4 +1,4 @@
-# finch-robot
+# Finch Robot
 
 ### Development Checklist
 
